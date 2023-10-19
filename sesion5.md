@@ -7,6 +7,7 @@
 <!-- Su documentación aquí -->
 
 ## Clase vehiculo
+
 class Vehiculo {
         protected String marca;
         protected String modelo;

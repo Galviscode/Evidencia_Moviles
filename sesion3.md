@@ -7,6 +7,7 @@
 <!-- Su documentación aquí -->
 
 ## Clase jugadores
+
 //Atributos.
 
 public class Jugadores {
